@@ -14,13 +14,13 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+        FINALLY. <br className="sm:block hidden" /> EARN POINTS ON RENT.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Tenants can sign up for our loyalty program for free and start earning 
+      loyalty points for each rent payment and spending at partner local establishments, 
+      such as discounts on future rents, vouchers for local restaurants, shops, and events, 
+      and access to exclusive offers.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

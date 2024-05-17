@@ -6,12 +6,14 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      EARN THE MOST<br className="sm:block hidden" /> VALUABLE REWARDS.
+
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Earning the most valuable points has its perks. Redeem 
+      for incredibly valueable rewards across travel, fitness, 
+      shopping and more.
+
       </p>
 
       <Button styles={`mt-10`} />

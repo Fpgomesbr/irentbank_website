@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "iRentBank rewards tenants and landlords with exclusive benefits for loyalty to the rental community.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We employ rigorous security measures to ensure 100% protection of your information and transactions.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Easily move your money from one account to another without any hassle or complications.",
   },
 ];
 
@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "iRentBank's program is amazing! I earn rewards for paying rent and get great discounts at local businesses. It's a win-win!",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "iRentBank's loyalty program boosts tenant satisfaction and retention. It's been a game-changer for my properties!",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Partnering with iRentBank has increased foot traffic and brand recognition. Their program benefits both businesses and the community.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
